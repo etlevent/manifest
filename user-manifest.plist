@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://develop.homelabs.in/halo2-user.ipa</string>
+					<string>https://github.com/etlevent/manifest/blob/master/Runner.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
